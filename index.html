@@ -12,6 +12,6 @@ title: main page
 
 <ul>
 {% for design in site.design%}
-  <li>{{ design.title }}</li>
+  <li><a href="{{site.design}}">{{ design.title }}</a></li>
 {% endfor%}
 </ul>
