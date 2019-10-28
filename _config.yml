@@ -55,7 +55,7 @@ markdown: kramdown
 #   - vendor/ruby/
 
 collections:
-  illustration:
+  illustrations:
     output: true
   photography:
     output: true
