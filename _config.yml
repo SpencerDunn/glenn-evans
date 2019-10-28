@@ -53,3 +53,12 @@ markdown: kramdown
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  portfolio:
+    output: true
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+  
+  
