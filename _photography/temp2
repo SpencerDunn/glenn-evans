@@ -1,5 +1,8 @@
 ---
 layout: default
+portfolio-image: https://www.fillmurray.com/640/360
 ---
+
+<img src="{{page.portfolio-image}}" />
 
 <img src="https://via.placeholder.com/500">
