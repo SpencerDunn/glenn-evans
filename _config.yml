@@ -55,7 +55,11 @@ markdown: kramdown
 #   - vendor/ruby/
 
 collections:
-  portfolio:
+  illustration:
+    output: true
+  photography:
+    output: true
+  design:
     output: true
 
 sass:
