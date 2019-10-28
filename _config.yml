@@ -57,13 +57,13 @@ markdown: kramdown
 collections:
   illustrations:
     output: true
-    permalink: illustrations/:title
+     permalink: illustrations/:title
   photography:
     output: true
-     permalink: photography/:title
+      permalink: photography/:title
   design:
     output: true
-     permalink: design/:title
+      permalink: design/:title
 
 sass:
   style: compact # possible values: nested expanded compact compressed
