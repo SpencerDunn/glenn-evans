@@ -2,4 +2,6 @@
 layout: default
 title: main page
 ---
-
+{% for collection in site.collections %}
+<h1>{{site.collection}}</h1>
+{% endfor %}
