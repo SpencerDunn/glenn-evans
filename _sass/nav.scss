@@ -1,9 +1,12 @@
 /*Nav*/
-main-nav {
+.main-nav {
 height:100px;
 width:100%;  
 background-color: $base-color;
 color:white;
+display:flex;
+flex-flow: row wrap;
+justify-content: flex-start;
 }
 
 nav > ul {
