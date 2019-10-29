@@ -63,6 +63,7 @@ collections:
       
   design:
     output: true
+    permalink: design/:title
       
 
 sass:
