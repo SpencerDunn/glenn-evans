@@ -57,9 +57,11 @@ markdown: kramdown
 collections:
   illustrations:
     output: true
+    permalink: /illustrations/:path/
      
   photography:
     output: true
+    permalink: /photography/:path/
       
   design:
     output: true
