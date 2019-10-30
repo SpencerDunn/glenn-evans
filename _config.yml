@@ -63,7 +63,7 @@ collections:
       
   design:
     output: true
-    permalink: design/:title
+    permalink: design/:title:output_ext
       
 
 sass:
