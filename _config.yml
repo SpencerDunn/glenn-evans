@@ -63,7 +63,7 @@ collections:
       
   design:
     output: true
-#     permalink: glenn-evans/design/:title
+    permalink: /:title.html
       
 
 sass:
