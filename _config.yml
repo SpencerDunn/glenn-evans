@@ -57,15 +57,15 @@ markdown: kramdown
 collections:
   illustrations:
     output: true
-    permalink: /illustrations/:path/
+    permalink: /:collection/:path/
      
   photography:
     output: true
-    permalink: /photography/:path/
+    permalink: /:collection/:path/
       
   design:
     output: true
-    permalink: /design/:path/
+    permalink: /:collection/:path/
       
 
 sass:
