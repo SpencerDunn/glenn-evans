@@ -63,7 +63,7 @@ collections:
       
   design:
     output: true
-    permalink: design/:title:output_ext
+    permalink: glenn-evans/design/:title:output_ext
       
 
 sass:
