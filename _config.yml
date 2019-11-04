@@ -64,7 +64,7 @@ collections:
     permalink: /:collection/:path/
       
   design:
-    output: false
+    output: true
     permalink: /:collection/:path/
       
 
